@@ -49,7 +49,7 @@ const NewPictures = ({ onOpenSlideshow1, onOpenSlideshow2 }) => {
           className="button button-bordered fantasy-font"
           onClick={onOpenSlideshow1}
         >
-          Képek 1
+          Képek 2
         </h2>
         <ComingSoon date={PICTURES_3_DATE} />
       </>
@@ -67,7 +67,7 @@ const NewPictures = ({ onOpenSlideshow1, onOpenSlideshow2 }) => {
           className="button button-bordered fantasy-font"
           onClick={onOpenSlideshow2}
         >
-          Képek 2
+          Képek 3
         </h2>
       </>
     );
