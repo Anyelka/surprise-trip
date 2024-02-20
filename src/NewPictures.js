@@ -61,7 +61,7 @@ const NewPictures = ({ onOpenSlideshow1, onOpenSlideshow2 }) => {
           className="button button-bordered fantasy-font"
           onClick={onOpenSlideshow1}
         >
-          Képek 1
+          Képek 2
         </h2>
         <h2
           className="button button-bordered fantasy-font"
